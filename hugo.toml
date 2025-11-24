@@ -54,7 +54,7 @@ theme = "barks"
 
   [[menu.main]]
     name = "CV"
-    url = "/CV.pdf"
+    url = "/cv.pdf"
     weight = 3
 
 [params]
