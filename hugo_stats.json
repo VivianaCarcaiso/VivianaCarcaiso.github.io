@@ -8,7 +8,6 @@
       "div",
       "footer",
       "h1",
-      "h2",
       "head",
       "header",
       "html",
@@ -38,8 +37,6 @@
       "outer",
       "title"
     ],
-    "ids": [
-      "contact"
-    ]
+    "ids": null
   }
 }

@@ -14,9 +14,9 @@ layout: "home"
   </div>
 </div>
 
-## Contact
 
-<p>Viviana Carcaiso<br>
+<p>**Contact**:<br>
+Viviana Carcaiso<br>
 Unité BioSP – Biostatistique et Processus Spatiaux<br>
 INRAE – Centre Provence-Alpes Côte d'Azur<br>
 84914 Avignon, France<br>
