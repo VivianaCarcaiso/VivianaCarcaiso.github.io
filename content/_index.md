@@ -13,3 +13,11 @@ layout: "home"
     <img src="/img/me.png" alt="Picture of me" style="width:280px; border-radius:5px;">
   </div>
 </div>
+
+## Contact
+
+<p>Viviana Carcaiso<br>
+Unité BioSP – Biostatistique et Processus Spatiaux<br>
+INRAE – Centre Provence-Alpes Côte d'Azur<br>
+84914 Avignon, France<br>
+email: viviana [dot] carcaiso [dot] inrae [dot] fr </p>
