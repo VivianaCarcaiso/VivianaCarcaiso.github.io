@@ -1,6 +1,6 @@
 baseURL = "https://VivianaCarcaiso.github.io/"
 languageCode = "en-us"
-title = "My Bark Website"
+title = "Viviana Carcaiso"
 theme = "barks"
 
 # Enable the CSS/JS pipeline from Hugo Extended
@@ -12,3 +12,51 @@ theme = "barks"
   defaultMarkdownHandler = "goldmark"
   [markup.goldmark.renderer]
     unsafe = true
+
+[params.typography]
+    title_font = "Montserrat"
+    body_font = "Kedebideri"
+
+[params.colors]
+    theme_color = "#333333"
+    background_color = "#fcfbf9"
+    text_color = "#333333"
+    link_color = "#95a3ba"
+
+[params.social]
+    [params.social.email]
+        name = "E-Mail"
+        class = "fas fa-envelope"
+        url = "mailto:viviana.carcaiso@inrae.fr"
+        weight = 1
+    [params.social.github]
+        name = "GitHub"
+        class = "fab fa-github"
+        url = "https://github.com/VivianaCarcaiso"
+        weight = 3
+    [params.social.google_scholar]
+        name = "Google Scholar"
+        class = "ai ai-google-scholar-square"
+        url = "https://scholar.google.com/citations?user=9QG1j3YAAAAJ&hl=it"
+        weight = 2
+
+[menu]
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 2
+
+  [[menu.main]]
+    name = "CV"
+    url = "/CV/"
+    weight = 3
+
+[params]
+  description = "My personal website"
+  author = "Viviana Carcaiso"
