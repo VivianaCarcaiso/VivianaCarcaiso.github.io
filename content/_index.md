@@ -10,6 +10,6 @@ layout: "home"
     <p>In my free time, I like baking, running, and going to the cinema.</p>
   </div>
   <div style="flex:0 0 280px;">
-    <img src="/img/me.jpg" alt="Picture of me" style="width:280px; border-radius:5px;">
+    <img src="/img/me.png" alt="Picture of me" style="width:280px; border-radius:5px;">
   </div>
 </div>
