@@ -15,7 +15,7 @@ layout: "home"
 </div>
 
 
-<p>**Contact**:<br>
+<p><strong>Contact</strong>:<br>
 Viviana Carcaiso<br>
 Unité BioSP – Biostatistique et Processus Spatiaux<br>
 INRAE – Centre Provence-Alpes Côte d'Azur<br>
