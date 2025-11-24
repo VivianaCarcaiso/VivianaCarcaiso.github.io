@@ -1,0 +1,30 @@
+{
+  "htmlElements": {
+    "tags": [
+      "a",
+      "article",
+      "body",
+      "div",
+      "footer",
+      "head",
+      "header",
+      "html",
+      "link",
+      "main",
+      "meta",
+      "nav",
+      "noscript",
+      "p",
+      "title",
+      "ul"
+    ],
+    "classes": [
+      "center",
+      "inner",
+      "middle",
+      "outer",
+      "title"
+    ],
+    "ids": null
+  }
+}
