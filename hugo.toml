@@ -2,6 +2,7 @@ baseURL = "https://VivianaCarcaiso.github.io/"
 languageCode = "en-us"
 title = "Viviana Carcaiso"
 theme = "barks"
+disablePathToLower = true
 
 # Enable the CSS/JS pipeline from Hugo Extended
 # (You MUST use the extended version)
