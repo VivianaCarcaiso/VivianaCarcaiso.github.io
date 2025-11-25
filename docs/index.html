@@ -103,31 +103,45 @@
                         
 
     <article>
-        <div style="
-  display:flex;
-  flex-wrap:wrap;
-  align-items:center;
-  gap:20px;
-">
-  <div style="flex:1 1 250px; min-width:250px;">
+        <style>
+.home-container {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  align-items: center;
+  flex-wrap: wrap;
+  max-width: 900px;
+  margin: 0 auto;
+}
+.home-text {
+  flex: 1 1 300px;
+  min-width: 250px;
+}
+.home-image {
+  flex: 0 0 250px;
+  text-align: center;
+}
+.home-image img {
+  width: 100%;
+  max-width: 250px;
+  border-radius: 5px;
+}
+@media (max-width: 700px) {
+  .home-container {
+    flex-direction: column;
+    text-align: center;
+  }
+}
+</style>
+<div class="home-container">
+  <div class="home-text">
     <p>Hi, I am a postdoctoral researcher at Unité Biostatistique et Processus Spatiaux, INRAE, Centre Provence-Alpes Côte d'Azur. My research focus is extreme value theory with applications to environmental problems.</p>
-<pre><code>&lt;p&gt;I have obtained my Ph.D. in Statistical Sciences at the University of Padova, Italy, under the supervision of Ilaria Prosdocimi, Isadora Antoniano-Villalobos, and Miguel de Carvalho.&lt;/p&gt;
-
-&lt;p&gt;In my free time, I like baking, running, and going to the cinema.&lt;/p&gt;
-</code></pre>
+<p>I have obtained my Ph.D. in Statistical Sciences at the University of Padova, Italy, under the supervision of Ilaria Prosdocimi, Isadora Antoniano-Villalobos, and Miguel de Carvalho.</p>
+<p>In my free time, I like baking, running, and going to the cinema.</p>
   </div>
-  <div style="
-    flex:1 1 200px;
-    text-align:center;
-  ">
-    <img src="/img/me.png"
-         alt="Picture of me"
-         style="
-           width:100%;
-           max-width:280px;
-           border-radius:5px;
-         ">
-  </div>
+<div class="home-image">
+    <img src="/img/me.png" alt="Picture of me">
+</div>
 </div>
 <p><strong>Contact</strong>:<br>
 Viviana Carcaiso<br>
