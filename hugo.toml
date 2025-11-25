@@ -25,8 +25,8 @@ theme = "barks"
 
 [params.social]
     [params.social.linkedin]
-        name = "LinkedIn"
-        class = "fas fa-linkedin"
+        name = "Linkedin"
+        class = "fab fa-linkedin"
         url = "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://fr.linkedin.com/in/viviana-carcaiso-77918a225&ved=2ahUKEwin_pS694yRAxV1TaQEHau1BjgQFnoECCMQAQ&usg=AOvVaw292-5v9552B7AuCARiL7jD"
         weight = 1
     [params.social.github]
