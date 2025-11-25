@@ -52,10 +52,6 @@ theme = "barks"
     url = "/research/"
     weight = 2
 
-  [[menu.main]]
-    name = "CV"
-    url = "/cv.pdf"
-    weight = 3
 
 [params]
   description = "My personal website"
