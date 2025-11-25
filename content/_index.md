@@ -52,7 +52,7 @@ layout: "home"
 
 <p><strong>Contact</strong>:<br>
 Viviana Carcaiso<br>
-INRAE – BioSP<br>
+INRAE – Unité Biostatistique et Processus Spatiaux<br>
 Domaine Saint Paul<br>
 228, route de l’Aérodrome<br>
 Site Agroparc - CS 40509<br>
