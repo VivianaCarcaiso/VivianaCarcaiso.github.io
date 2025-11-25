@@ -52,7 +52,9 @@ layout: "home"
 
 <p><strong>Contact</strong>:<br>
 Viviana Carcaiso<br>
-Unité BioSP – Biostatistique et Processus Spatiaux<br>
-INRAE – Centre Provence-Alpes Côte d'Azur<br>
-84914 Avignon, France<br>
+INRAE – BioSP<br>
+Domaine Saint Paul<br>
+228, route de l’Aérodrome<br>
+Site Agroparc - CS 40509<br>
+84914 Avignon Cedex 9, France<br>
 email: viviana [dot] carcaiso [dot] inrae [dot] fr </p>
