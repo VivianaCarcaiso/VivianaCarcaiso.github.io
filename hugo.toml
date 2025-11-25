@@ -26,7 +26,7 @@ disablePathToLower = true
     theme_color = "#333333"
     background_color = "#fcfbf9"
     text_color = "#333333"
-    link_color = "#95a3ba"
+    link_color = "#949aa6"
 
 [params.social]
     [params.social.linkedin]
