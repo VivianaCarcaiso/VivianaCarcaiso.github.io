@@ -50,6 +50,8 @@ layout: "home"
 
 </div>
 
+<p><strong>News</strong>: I have recently being awarded as one of the winners of the [<strong>2026 ISBA EnviBayes Student paper competition</strong>](https://bayesian.org/isba-envibayes-student-paper-competition/)! The paper can be found [here](https://arxiv.org/pdf/2509.15359).</p>
+
 <p><strong>Contact</strong>:<br>
 Viviana Carcaiso<br>
 INRAE – Unité Biostatistique et Processus Spatiaux<br>
