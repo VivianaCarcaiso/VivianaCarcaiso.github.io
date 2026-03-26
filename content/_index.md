@@ -50,7 +50,12 @@ layout: "home"
 
 </div>
 
-<p><strong>News</strong>: I have recently being awarded as one of the winners of the [<strong>2026 ISBA EnviBayes Student paper competition</strong>](https://bayesian.org/isba-envibayes-student-paper-competition/)! The paper can be found [here](https://arxiv.org/pdf/2509.15359).</p>
+<p><strong>News</strong>: I have recently been awarded as one of the winners of the 
+<a href="https://bayesian.org/isba-envibayes-student-paper-competition/">
+<strong>2026 ISBA EnviBayes Student paper competition</strong>
+</a>! The paper can be found 
+<a href="https://arxiv.org/pdf/2509.15359">here</a>.
+</p>
 
 <p><strong>Contact</strong>:<br>
 Viviana Carcaiso<br>
