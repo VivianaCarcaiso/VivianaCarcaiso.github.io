@@ -52,7 +52,7 @@ layout: "home"
 
 <p><strong>News</strong>: I have recently been awarded as one of the winners of the 
 <a href="https://bayesian.org/isba-envibayes-student-paper-competition/">
-<strong>2026 ISBA EnviBayes Student paper competition</strong>
+<strong>2026 ISBA EnviBayes Student Paper Competition</strong>
 </a>! The paper can be found 
 <a href="https://arxiv.org/pdf/2509.15359">here</a>.
 </p>
