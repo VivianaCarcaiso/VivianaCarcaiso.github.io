@@ -28,4 +28,4 @@ Chapman & Hall/CRC, Boca Raton, FL.
 by Healy et al. *Journal of the Royal Statistical Society Series C: Applied Statistics*, 74(2), 307–309.
 
 
-**Complete list of publications**: [Google Scholar](https://scholar.google.com/citations?user=9QG1j3YAAAAJ&hl=it) or [CV](https://vivianacarcaiso.github.io/CV.pdf).
+**Complete list of publications**: [Google Scholar](https://scholar.google.com/citations?user=9QG1j3YAAAAJ&hl=it) or [CV](https://vivianacarcaiso.github.io/CV_new.pdf).
