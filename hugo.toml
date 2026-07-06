@@ -65,7 +65,7 @@ disablePathToLower = true
 
   [[menu.main]]
     name = "CV"
-    url = "/CV.pdf"
+    url = "/CV_new.pdf"
     weight = 3
 
 
