@@ -9,12 +9,12 @@ title: "My research"
 
 **Ongoing projects**:  
 - Simulation and probabilistic analysis of complex extreme events with applications to compound climate extremes in agronomy and ecology. *With Freddy Bouchet, Aurélie Fischer, Thomas Opitz and Pascal Yiou*.
-- Extrapolation of extreme covariates using extreme-value theory, with an application to wildfire prediction. *With Sebastian Engelke, Juliette Legrand and Thomas Opitz*.  
 
 
 **Recent preprints**:  
-Carcaiso, V., de Carvalho, M., Prosdocimi, I., Antoniano-Villalobos, I. (2025). Bayesian
-mixture models for heterogeneous extremes. [arXiv:2509.15359](https://arxiv.org/abs/2509.15359)
+- Carcaiso, V., de Carvalho, M., Prosdocimi, I., Antoniano-Villalobos, I. (2025). Bayesian
+mixture models for heterogeneous extremes. [arXiv:2509.15359](https://arxiv.org/abs/2509.15359)  
+- Carcaiso, V., Engelke, S., Legrand, J., Opitz, T. (2026) Extrapolation of extreme covariates in generalized additive regression using extreme-value theory. [arXiv:2607.08921](https://arxiv.org/abs/2607.08921)
 
 **Selected publications**:  
 - Carcaiso, V., Grilli, L. (2022). Quantile regression for count data: jittering versus regression coefficients
